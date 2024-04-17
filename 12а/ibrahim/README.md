@@ -1,1 +1,1 @@
-Cvetkov e gei
+Ibrahim eşcinselim
