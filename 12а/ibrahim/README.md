@@ -1,1 +1,1 @@
-Ibrahim eşcinselim
+Ibrahim e gotin a Cvetkov e gei
