@@ -1,2 +1,1 @@
-
-az sum gei
+Cvetkov e gei
