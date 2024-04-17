@@ -1,0 +1,43 @@
+html{
+    width: 800px;
+    font-family: sans-serif;
+    
+}
+div.block1 {
+    padding: 20px;
+    background-color: #dcdddb;
+}
+div.block2, div.block3{
+    display: inline-block;
+    width: 45%;
+}
+div.block3{
+    height: 342px;
+    background-color: #ffffff;
+    
+}
+img.img1{
+    width: auto; 
+    height: auto;
+    display: inline-block;
+
+}
+h1{
+    margin: 30px;
+    font: 35px;
+}
+p {
+    margin: 10px;
+    font: 16px;
+    text-indent: 1.5px;
+}
+div.block4 {
+    padding: 20px;
+    background-color: #dcdddb;
+}
+div.block5, div.block6, div.block7{
+    display: inline-block;
+    width: 28%;
+    padding: 20px;
+    background-color: #ffffff;
+}
