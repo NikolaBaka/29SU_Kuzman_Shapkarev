@@ -16,4 +16,4 @@
 - 10-ти А клас;
 
 ## 12 клас:
-- 12-ти А клас;
+- [12-ти А клас](https://github.com/NikolaBaka/29SU_Kuzman_Shapkarev/tree/main/12A);
