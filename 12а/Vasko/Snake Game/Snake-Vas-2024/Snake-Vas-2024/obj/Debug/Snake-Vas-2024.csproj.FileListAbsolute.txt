@@ -1,0 +1,11 @@
+D:\vasil\Visual Studio Projects by Me\Snake-Vas-2024\Snake-Vas-2024\bin\Debug\Snake-Vas-2024.exe.config
+D:\vasil\Visual Studio Projects by Me\Snake-Vas-2024\Snake-Vas-2024\bin\Debug\Snake-Vas-2024.exe
+D:\vasil\Visual Studio Projects by Me\Snake-Vas-2024\Snake-Vas-2024\bin\Debug\Snake-Vas-2024.pdb
+D:\vasil\Visual Studio Projects by Me\Snake-Vas-2024\Snake-Vas-2024\obj\Debug\Snake-Vas-2024.csproj.AssemblyReference.cache
+D:\vasil\Visual Studio Projects by Me\Snake-Vas-2024\Snake-Vas-2024\obj\Debug\Snake-Vas-2024.csproj.SuggestedBindingRedirects.cache
+D:\vasil\Visual Studio Projects by Me\Snake-Vas-2024\Snake-Vas-2024\obj\Debug\Snake_Vas_2024.Form1.resources
+D:\vasil\Visual Studio Projects by Me\Snake-Vas-2024\Snake-Vas-2024\obj\Debug\Snake_Vas_2024.Properties.Resources.resources
+D:\vasil\Visual Studio Projects by Me\Snake-Vas-2024\Snake-Vas-2024\obj\Debug\Snake-Vas-2024.csproj.GenerateResource.cache
+D:\vasil\Visual Studio Projects by Me\Snake-Vas-2024\Snake-Vas-2024\obj\Debug\Snake-Vas-2024.csproj.CoreCompileInputs.cache
+D:\vasil\Visual Studio Projects by Me\Snake-Vas-2024\Snake-Vas-2024\obj\Debug\Snake-Vas-2024.exe
+D:\vasil\Visual Studio Projects by Me\Snake-Vas-2024\Snake-Vas-2024\obj\Debug\Snake-Vas-2024.pdb
