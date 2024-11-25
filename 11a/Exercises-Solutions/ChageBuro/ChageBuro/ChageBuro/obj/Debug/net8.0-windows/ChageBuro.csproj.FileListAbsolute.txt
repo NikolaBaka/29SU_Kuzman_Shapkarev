@@ -1,0 +1,16 @@
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\bin\Debug\net8.0-windows\ChageBuro.exe
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\bin\Debug\net8.0-windows\ChageBuro.deps.json
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\bin\Debug\net8.0-windows\ChageBuro.runtimeconfig.json
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\bin\Debug\net8.0-windows\ChageBuro.dll
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\bin\Debug\net8.0-windows\ChageBuro.pdb
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\obj\Debug\net8.0-windows\ChageBuro.Form1.resources
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\obj\Debug\net8.0-windows\ChageBuro.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\obj\Debug\net8.0-windows\ChageBuro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\obj\Debug\net8.0-windows\ChageBuro.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\obj\Debug\net8.0-windows\ChageBuro.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\obj\Debug\net8.0-windows\ChageBuro.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\obj\Debug\net8.0-windows\ChageBuro.dll
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\obj\Debug\net8.0-windows\refint\ChageBuro.dll
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\obj\Debug\net8.0-windows\ChageBuro.pdb
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\obj\Debug\net8.0-windows\ChageBuro.genruntimeconfig.cache
+C:\Users\Nikola\Desktop\11a\OOP\ChageBuro\ChageBuro\ChageBuro\obj\Debug\net8.0-windows\ref\ChageBuro.dll
