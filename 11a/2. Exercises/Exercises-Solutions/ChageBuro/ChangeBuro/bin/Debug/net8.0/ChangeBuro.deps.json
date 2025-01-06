@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ChangeBuro/1.0.0": {
+        "runtime": {
+          "ChangeBuro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChangeBuro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

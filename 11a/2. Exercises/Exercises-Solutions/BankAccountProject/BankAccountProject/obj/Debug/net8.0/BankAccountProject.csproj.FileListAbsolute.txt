@@ -1,0 +1,14 @@
+C:\Users\Nikola\Desktop\11a\OOP\BankAccountProject\BankAccountProject\obj\Debug\net8.0\BankAccountProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Desktop\11a\OOP\BankAccountProject\BankAccountProject\obj\Debug\net8.0\BankAccountProject.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\11a\OOP\BankAccountProject\BankAccountProject\obj\Debug\net8.0\BankAccountProject.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\11a\OOP\BankAccountProject\BankAccountProject\obj\Debug\net8.0\BankAccountProject.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\11a\OOP\BankAccountProject\BankAccountProject\bin\Debug\net8.0\BankAccountProject.exe
+C:\Users\Nikola\Desktop\11a\OOP\BankAccountProject\BankAccountProject\bin\Debug\net8.0\BankAccountProject.deps.json
+C:\Users\Nikola\Desktop\11a\OOP\BankAccountProject\BankAccountProject\bin\Debug\net8.0\BankAccountProject.runtimeconfig.json
+C:\Users\Nikola\Desktop\11a\OOP\BankAccountProject\BankAccountProject\bin\Debug\net8.0\BankAccountProject.dll
+C:\Users\Nikola\Desktop\11a\OOP\BankAccountProject\BankAccountProject\bin\Debug\net8.0\BankAccountProject.pdb
+C:\Users\Nikola\Desktop\11a\OOP\BankAccountProject\BankAccountProject\obj\Debug\net8.0\BankAccountProject.dll
+C:\Users\Nikola\Desktop\11a\OOP\BankAccountProject\BankAccountProject\obj\Debug\net8.0\refint\BankAccountProject.dll
+C:\Users\Nikola\Desktop\11a\OOP\BankAccountProject\BankAccountProject\obj\Debug\net8.0\BankAccountProject.pdb
+C:\Users\Nikola\Desktop\11a\OOP\BankAccountProject\BankAccountProject\obj\Debug\net8.0\BankAccountProject.genruntimeconfig.cache
+C:\Users\Nikola\Desktop\11a\OOP\BankAccountProject\BankAccountProject\obj\Debug\net8.0\ref\BankAccountProject.dll
