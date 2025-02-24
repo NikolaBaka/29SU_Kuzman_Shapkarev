@@ -23,3 +23,8 @@
 ## Изпратете на имейл с тема "Проект 12А - име фамилия"
 ## Проектът да е архивиран
 ## имейл: nikola.bakardzhiev@edu.mon.bg
+
+
+# Примерна задача за контролно
+
+https://www.mon.bg/obshto-obrazovanie/darzhavni-zrelostni-izpiti-dzi/izpitni-materiali-za-dzi-po-predmeti/informatsionni-tehnologii/
