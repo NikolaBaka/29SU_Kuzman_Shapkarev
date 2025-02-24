@@ -27,4 +27,4 @@
 
 # Примерна задача за контролно
 
-https://www.mon.bg/obshto-obrazovanie/darzhavni-zrelostni-izpiti-dzi/izpitni-materiali-za-dzi-po-predmeti/informatsionni-tehnologii/
+https://www.mon.bg/nfs/2022/08/2dzi_informacionnitehnologii.pdf
