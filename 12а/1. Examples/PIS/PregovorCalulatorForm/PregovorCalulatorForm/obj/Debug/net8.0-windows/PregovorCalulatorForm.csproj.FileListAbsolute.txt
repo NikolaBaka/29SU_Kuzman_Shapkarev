@@ -1,0 +1,17 @@
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\bin\Debug\net8.0-windows\PregovorCalulatorForm.exe
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\bin\Debug\net8.0-windows\PregovorCalulatorForm.deps.json
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\bin\Debug\net8.0-windows\PregovorCalulatorForm.runtimeconfig.json
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\bin\Debug\net8.0-windows\PregovorCalulatorForm.dll
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\bin\Debug\net8.0-windows\PregovorCalulatorForm.pdb
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\obj\Debug\net8.0-windows\PregovorCalulatorForm.Form1.resources
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\obj\Debug\net8.0-windows\PregovorCalulatorForm.Form2.resources
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\obj\Debug\net8.0-windows\PregovorCalulatorForm.csproj.GenerateResource.cache
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\obj\Debug\net8.0-windows\PregovorCalulatorForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\obj\Debug\net8.0-windows\PregovorCalulatorForm.AssemblyInfoInputs.cache
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\obj\Debug\net8.0-windows\PregovorCalulatorForm.AssemblyInfo.cs
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\obj\Debug\net8.0-windows\PregovorCalulatorForm.csproj.CoreCompileInputs.cache
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\obj\Debug\net8.0-windows\PregovorCalulatorForm.dll
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\obj\Debug\net8.0-windows\refint\PregovorCalulatorForm.dll
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\obj\Debug\net8.0-windows\PregovorCalulatorForm.pdb
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\obj\Debug\net8.0-windows\PregovorCalulatorForm.genruntimeconfig.cache
+C:\Users\PC MAIN - 109 r\Desktop\12a-2\PIS\PregovorCalulatorForm\PregovorCalulatorForm\obj\Debug\net8.0-windows\ref\PregovorCalulatorForm.dll
