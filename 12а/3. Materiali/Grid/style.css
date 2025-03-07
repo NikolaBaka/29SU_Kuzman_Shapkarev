@@ -1,0 +1,23 @@
+.grid-container{
+    display: grid;
+    grid-template:
+        "header header"
+        "nav main"
+        "nav footer"
+}
+
+header {
+    display: grid-area;
+}
+
+nav {
+    display: grid-area;
+}
+
+main {
+    display: grid-area;
+}
+
+footer {
+    display: grid-area;
+}
