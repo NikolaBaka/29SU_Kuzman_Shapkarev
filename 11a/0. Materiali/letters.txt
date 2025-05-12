@@ -1,2 +1,25 @@
+string text = "Az shte dojda utre";
+
+// Replace( string, prazni mesta, zamqna s nishto)
+
+text = text.Replace(" ", "");
+text = text.ToLower();
+
+Console.WriteLine(text);
+
 List<string> letters = new List<string> { "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m",
     "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z" };
+// Contains(
+List<int> code = new List<int> { 1, 2, 3 };
+
+// a z s h t e d o j d a  u  t  r  e
+// 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+// 'a' - > "a"
+
+int letterPosition = letters.IndexOf(text[0].ToString());// a - 0
+
+int reversePosition = 26 - letterPosition; // 26
+
+string result = letters.ElementAt(reversePosition - 1);
+
+Console.WriteLine(result);
