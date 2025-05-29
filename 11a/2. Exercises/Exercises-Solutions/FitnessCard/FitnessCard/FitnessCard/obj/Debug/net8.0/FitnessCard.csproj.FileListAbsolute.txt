@@ -1,0 +1,14 @@
+C:\Users\Nikola\Desktop\11a\OOP\FitnessCard\FitnessCard\FitnessCard\bin\Debug\net8.0\FitnessCard.exe
+C:\Users\Nikola\Desktop\11a\OOP\FitnessCard\FitnessCard\FitnessCard\bin\Debug\net8.0\FitnessCard.deps.json
+C:\Users\Nikola\Desktop\11a\OOP\FitnessCard\FitnessCard\FitnessCard\bin\Debug\net8.0\FitnessCard.runtimeconfig.json
+C:\Users\Nikola\Desktop\11a\OOP\FitnessCard\FitnessCard\FitnessCard\bin\Debug\net8.0\FitnessCard.dll
+C:\Users\Nikola\Desktop\11a\OOP\FitnessCard\FitnessCard\FitnessCard\bin\Debug\net8.0\FitnessCard.pdb
+C:\Users\Nikola\Desktop\11a\OOP\FitnessCard\FitnessCard\FitnessCard\obj\Debug\net8.0\FitnessCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Desktop\11a\OOP\FitnessCard\FitnessCard\FitnessCard\obj\Debug\net8.0\FitnessCard.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\11a\OOP\FitnessCard\FitnessCard\FitnessCard\obj\Debug\net8.0\FitnessCard.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\11a\OOP\FitnessCard\FitnessCard\FitnessCard\obj\Debug\net8.0\FitnessCard.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\11a\OOP\FitnessCard\FitnessCard\FitnessCard\obj\Debug\net8.0\FitnessCard.dll
+C:\Users\Nikola\Desktop\11a\OOP\FitnessCard\FitnessCard\FitnessCard\obj\Debug\net8.0\refint\FitnessCard.dll
+C:\Users\Nikola\Desktop\11a\OOP\FitnessCard\FitnessCard\FitnessCard\obj\Debug\net8.0\FitnessCard.pdb
+C:\Users\Nikola\Desktop\11a\OOP\FitnessCard\FitnessCard\FitnessCard\obj\Debug\net8.0\FitnessCard.genruntimeconfig.cache
+C:\Users\Nikola\Desktop\11a\OOP\FitnessCard\FitnessCard\FitnessCard\obj\Debug\net8.0\ref\FitnessCard.dll

@@ -1,0 +1,14 @@
+C:\Users\Student 05\Desktop\12А клас\zadacha\exersice 01\exersice 01\bin\Debug\net6.0\exersice 01.exe
+C:\Users\Student 05\Desktop\12А клас\zadacha\exersice 01\exersice 01\bin\Debug\net6.0\exersice 01.deps.json
+C:\Users\Student 05\Desktop\12А клас\zadacha\exersice 01\exersice 01\bin\Debug\net6.0\exersice 01.runtimeconfig.json
+C:\Users\Student 05\Desktop\12А клас\zadacha\exersice 01\exersice 01\bin\Debug\net6.0\exersice 01.dll
+C:\Users\Student 05\Desktop\12А клас\zadacha\exersice 01\exersice 01\bin\Debug\net6.0\exersice 01.pdb
+C:\Users\Student 05\Desktop\12А клас\zadacha\exersice 01\exersice 01\obj\Debug\net6.0\exersice 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student 05\Desktop\12А клас\zadacha\exersice 01\exersice 01\obj\Debug\net6.0\exersice 01.AssemblyInfoInputs.cache
+C:\Users\Student 05\Desktop\12А клас\zadacha\exersice 01\exersice 01\obj\Debug\net6.0\exersice 01.AssemblyInfo.cs
+C:\Users\Student 05\Desktop\12А клас\zadacha\exersice 01\exersice 01\obj\Debug\net6.0\exersice 01.csproj.CoreCompileInputs.cache
+C:\Users\Student 05\Desktop\12А клас\zadacha\exersice 01\exersice 01\obj\Debug\net6.0\exersice 01.dll
+C:\Users\Student 05\Desktop\12А клас\zadacha\exersice 01\exersice 01\obj\Debug\net6.0\refint\exersice 01.dll
+C:\Users\Student 05\Desktop\12А клас\zadacha\exersice 01\exersice 01\obj\Debug\net6.0\exersice 01.pdb
+C:\Users\Student 05\Desktop\12А клас\zadacha\exersice 01\exersice 01\obj\Debug\net6.0\exersice 01.genruntimeconfig.cache
+C:\Users\Student 05\Desktop\12А клас\zadacha\exersice 01\exersice 01\obj\Debug\net6.0\ref\exersice 01.dll

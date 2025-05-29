@@ -1,0 +1,16 @@
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\bin\Debug\net8.0-windows\ChangeInchToCm.exe
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\bin\Debug\net8.0-windows\ChangeInchToCm.deps.json
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\bin\Debug\net8.0-windows\ChangeInchToCm.runtimeconfig.json
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\bin\Debug\net8.0-windows\ChangeInchToCm.dll
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\bin\Debug\net8.0-windows\ChangeInchToCm.pdb
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\obj\Debug\net8.0-windows\ChangeInchToCm.Form1.resources
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\obj\Debug\net8.0-windows\ChangeInchToCm.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\obj\Debug\net8.0-windows\ChangeInchToCm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\obj\Debug\net8.0-windows\ChangeInchToCm.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\obj\Debug\net8.0-windows\ChangeInchToCm.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\obj\Debug\net8.0-windows\ChangeInchToCm.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\obj\Debug\net8.0-windows\ChangeInchToCm.dll
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\obj\Debug\net8.0-windows\refint\ChangeInchToCm.dll
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\obj\Debug\net8.0-windows\ChangeInchToCm.pdb
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\obj\Debug\net8.0-windows\ChangeInchToCm.genruntimeconfig.cache
+C:\Users\Nikola\Desktop\11a\OOP\ChangeInchToCm\ChangeInchToCm\obj\Debug\net8.0-windows\ref\ChangeInchToCm.dll
