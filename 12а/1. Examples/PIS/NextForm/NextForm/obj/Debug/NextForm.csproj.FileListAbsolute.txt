@@ -1,0 +1,12 @@
+C:\Users\Nikola\Desktop\12a\NextForm\NextForm\bin\Debug\NextForm.exe.config
+C:\Users\Nikola\Desktop\12a\NextForm\NextForm\bin\Debug\NextForm.exe
+C:\Users\Nikola\Desktop\12a\NextForm\NextForm\bin\Debug\NextForm.pdb
+C:\Users\Nikola\Desktop\12a\NextForm\NextForm\obj\Debug\NextForm.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\12a\NextForm\NextForm\obj\Debug\NextForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikola\Desktop\12a\NextForm\NextForm\obj\Debug\NextForm.Form1.resources
+C:\Users\Nikola\Desktop\12a\NextForm\NextForm\obj\Debug\NextForm.Form2.resources
+C:\Users\Nikola\Desktop\12a\NextForm\NextForm\obj\Debug\NextForm.Properties.Resources.resources
+C:\Users\Nikola\Desktop\12a\NextForm\NextForm\obj\Debug\NextForm.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\12a\NextForm\NextForm\obj\Debug\NextForm.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\12a\NextForm\NextForm\obj\Debug\NextForm.exe
+C:\Users\Nikola\Desktop\12a\NextForm\NextForm\obj\Debug\NextForm.pdb

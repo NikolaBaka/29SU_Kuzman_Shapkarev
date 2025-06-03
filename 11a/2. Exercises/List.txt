@@ -1,0 +1,51 @@
+Напишете програма, която да разпечатва оценките на ученик във
+възходящ ред, намира най-високата, най-ниската оценка и средноаритметично
+ на всички оценки (да е закръглена до цяло число). Оценките се въвеждат от кла-
+виатура - [2; 6], като се запазват в структура от данни с големина до въвеждане 
+на stop от клавиатура. При оценка, която не отговаря на по-горния интервал да 
+изписва „The number is not valid“ и да прекрати програмата. 
+
+
+List<double> grades = new List<double>();
+
+Console.WriteLine("Enter grades: ");
+string enter = Console.ReadLine();
+
+while (enter != "stop")
+{
+    double grade = double.Parse(enter);
+    if (grade >= 2 && grade <= 6)
+    {
+        grades.Add(grade);
+    }
+    else
+    {
+        Console.WriteLine("The number is not valid.");
+    }
+
+    enter = Console.ReadLine();
+    
+}
+
+// Обхождане и сортиране
+
+grades.Sort();
+
+for (int i = 0; i < grades.Count; i++)
+{
+    grades[i] = Math.Round(grades[i]);
+    Console.Write(grades[i] + " ");
+}
+
+// Максимална оценка
+
+Console.Write(" Max: " + grades[grades.Count - 1]);
+Console.Write(" Max: " + grades.Max());
+
+// Минимална оценка
+
+Console.Write(" Min: " + grades.Min());
+
+// Среден успех
+
+Console.Write(" Average: " + Math.Round(grades.Average()));

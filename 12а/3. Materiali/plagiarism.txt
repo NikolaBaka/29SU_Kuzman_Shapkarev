@@ -1,0 +1,5 @@
+Има различни организации по света, които въвеждат стандартизирани методологии за управление на проекти. Най-старата и най-популярна в световен мащаб е Международната асоциация по управление на проекти, основана в Европа през 1965 г. под името INTERNET. Неин член в България е Българската асоциация по управление на проекти. Друга авторитетна организация е Project Management Institute (PMI), базирана в САЩ и с клонове в цял свят. PMI периодично издава книга за сферите на знание в управлението на проекти "A Guide to the Project Management Body of Knowledge, PMBOK Guide".
+
+
+Project management is the process of leading the work of a team to achieve goals and meet success criteria at a specified time. The primary challenge of project management is to achieve all of the project goals within the given constraints. This information is usually described in project documentation, created at the beginning of the development process. The primary constraints are scope, time, budget. The secondary challenge is to optimize the allocation of necessary inputs and apply them to meet pre-defined objectives.
+

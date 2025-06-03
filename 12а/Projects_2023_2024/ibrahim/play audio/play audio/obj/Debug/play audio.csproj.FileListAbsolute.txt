@@ -1,0 +1,12 @@
+C:\Users\Student 07\Desktop\8Б\play audio\play audio\bin\Debug\play audio.exe.config
+C:\Users\Student 07\Desktop\8Б\play audio\play audio\bin\Debug\play audio.exe
+C:\Users\Student 07\Desktop\8Б\play audio\play audio\bin\Debug\play audio.pdb
+C:\Users\Student 07\Desktop\8Б\play audio\play audio\obj\Debug\play audio.csproj.AssemblyReference.cache
+C:\Users\Student 07\Desktop\8Б\play audio\play audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Student 07\Desktop\8Б\play audio\play audio\obj\Debug\play audio.csproj.ResolveComReference.cache
+C:\Users\Student 07\Desktop\8Б\play audio\play audio\obj\Debug\play_audio.Form1.resources
+C:\Users\Student 07\Desktop\8Б\play audio\play audio\obj\Debug\play_audio.Properties.Resources.resources
+C:\Users\Student 07\Desktop\8Б\play audio\play audio\obj\Debug\play audio.csproj.GenerateResource.cache
+C:\Users\Student 07\Desktop\8Б\play audio\play audio\obj\Debug\play audio.csproj.CoreCompileInputs.cache
+C:\Users\Student 07\Desktop\8Б\play audio\play audio\obj\Debug\play audio.exe
+C:\Users\Student 07\Desktop\8Б\play audio\play audio\obj\Debug\play audio.pdb
