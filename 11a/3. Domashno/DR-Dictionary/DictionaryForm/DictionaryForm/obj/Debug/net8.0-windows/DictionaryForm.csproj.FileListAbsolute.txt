@@ -1,0 +1,17 @@
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\bin\Debug\net8.0-windows\DictionaryForm.exe
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\bin\Debug\net8.0-windows\DictionaryForm.deps.json
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\bin\Debug\net8.0-windows\DictionaryForm.runtimeconfig.json
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\bin\Debug\net8.0-windows\DictionaryForm.dll
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\bin\Debug\net8.0-windows\DictionaryForm.pdb
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\obj\Debug\net8.0-windows\DictionaryForm.Form1.resources
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\obj\Debug\net8.0-windows\DictionaryForm.csproj.GenerateResource.cache
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\obj\Debug\net8.0-windows\DictionaryForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\obj\Debug\net8.0-windows\DictionaryForm.AssemblyInfoInputs.cache
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\obj\Debug\net8.0-windows\DictionaryForm.AssemblyInfo.cs
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\obj\Debug\net8.0-windows\DictionaryForm.csproj.CoreCompileInputs.cache
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\obj\Debug\net8.0-windows\DictionaryForm.dll
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\obj\Debug\net8.0-windows\refint\DictionaryForm.dll
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\obj\Debug\net8.0-windows\DictionaryForm.pdb
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\obj\Debug\net8.0-windows\DictionaryForm.genruntimeconfig.cache
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\obj\Debug\net8.0-windows\ref\DictionaryForm.dll
+C:\Users\PC MAIN - 109 r\Desktop\11a\SDA\DictionaryForm\DictionaryForm\obj\Debug\net8.0-windows\DictionaryForm.Form2.resources
